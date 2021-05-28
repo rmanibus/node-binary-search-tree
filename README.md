@@ -6,10 +6,10 @@ Two implementations of binary search tree: <a href="http://en.wikipedia.org/wiki
 
 
 ## Installation and tests
-Package name is `binary-search-tree`.
+Package name is `@rmanibus/binary-search-tree`.
 
 ```bash
-npm install binary-search-tree --save
+npm install @rmanibus/binary-search-tree --save
 
 make test
 ```
