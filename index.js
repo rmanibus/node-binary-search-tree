@@ -1,2 +1,4 @@
-module.exports.BinarySearchTree = require('./lib/bst');
-module.exports.AVLTree = require('./lib/avltree');
+import BinarySearchTree from './lib/bst.js'
+import AVLTree from './lib/avltree.js'
+
+export { BinarySearchTree, AVLTree };
