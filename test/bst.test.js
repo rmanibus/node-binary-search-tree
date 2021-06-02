@@ -1,10 +1,7 @@
-var should = require('chai').should()
-  , assert = require('chai').assert
-  , BinarySearchTree = require('../index').BinarySearchTree
-  , _ = require('underscore')
-  , customUtils = require('../lib/customUtils')
-  ;
-
+import _ from 'underscore';
+import { assert, should } from 'chai';
+import { BinarySearchTree } from '../index.js';
+import customUtils from '../lib/customUtils.js';
 
 describe('Binary search tree', function () {
 

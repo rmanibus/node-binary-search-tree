@@ -1,10 +1,8 @@
-var should = require('chai').should()
-  , assert = require('chai').assert
-  , AVLTree = require('../index').AVLTree
-  , _ = require('underscore')
-  , customUtils = require('../lib/customUtils')
-  ;
-
+import _ from 'underscore';
+import { assert, should } from 'chai';
+import { AVLTree } from '../index.js';
+import customUtils from '../lib/customUtils.js';
+should();
 
 describe('AVL tree', function () {
 
