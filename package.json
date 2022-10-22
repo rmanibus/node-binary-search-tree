@@ -23,12 +23,11 @@
   },
   "devDependencies": {
     "chai": "^4.3",
-    "mocha": "^8.4"
+    "mocha": "^10.1"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec --timeout 10000"
   },
-  
   "main": "index",
   "licence": "MIT"
 }
