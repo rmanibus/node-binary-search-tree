@@ -1,6 +1,6 @@
 # Binary search trees for Node.js
 
-**Note: this module is a maintained fork of louischatriot/node-binary-search-tree. it is Tested with nodeJS 14 to nodeJS 19.**
+**Note: this module is a maintained fork of louischatriot/node-binary-search-tree. Tt is tested with nodeJS from version 14 to 19.**
 
 Two implementations of binary search tree: <a href="http://en.wikipedia.org/wiki/Binary_search_tree" target="_blank">basic</a> and <a href="http://en.wikipedia.org/wiki/AVL_tree" target="_blank">AVL</a> (a kind of self-balancing binmary search tree). I wrote this module primarily to store indexes for <a href="https://github.com/louischatriot/nedb" target="_blank">NeDB</a> (a javascript dependency-less database).
 
